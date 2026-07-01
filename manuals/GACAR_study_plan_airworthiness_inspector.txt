@@ -1,0 +1,185 @@
+خطة مذاكرة GACAR لوظيفة Air Carrier Airworthiness Inspector
+==========================================================
+
+بناءً على الوصف الوظيفي، هذه هي GACARs التي يجب مذاكرتها، مرتبة حسب الأولوية الفعلية للمقابلة والعمل.
+
+أولوية 1 — لازم تكون قوي فيها جدًا
+----------------------------------
+
+1) GACAR Part 121
+- الأهم لهذه الوظيفة.
+- يغطي تشغيل الناقلات الجوية التجارية.
+- مرتبط مباشرة بـ:
+  * CAMP
+  * CASS
+  * GMM / Maintenance Manuals
+  * MEL
+  * RVSM
+  * Training Programs
+  * OpSpecs
+
+2) GACAR Part 119
+- مهم لأنه يغطي:
+  * Certification of operators
+  * Air Operator Certificate (AOC)
+  * Operations Specifications (OpSpecs)
+- ضروري لفهم إضافة الطائرات إلى OpSpecs وتعديل الشهادات.
+
+3) GACAR Part 145
+- أساسي لفهم:
+  * Repair Stations / AMO
+  * صلاحيات منظمات الصيانة
+  * العلاقة بين المشغل والصيانة التعاقدية أو الداخلية
+
+4) GACAR Part 21
+- مهم جدًا لأنه يغطي:
+  * Standard Certificate of Airworthiness
+  * Export Certificate of Airworthiness
+  * Special Flight Permit
+  * SAPMA
+  * SATSO
+  * Certification procedures for products and articles
+
+5) GACAR Part 43
+- قاعدة الصيانة الأساسية.
+- يغطي:
+  * من يحق له أداء الصيانة
+  * من يحق له التوقيع للعودة للخدمة
+  * Maintenance Records
+  * Performance Rules
+  * Approved Data
+  * Major Repairs / Major Alterations
+
+6) GACAR Part 91
+- مهم كأساس تشغيلي عام.
+- ركّز خاصة على:
+  * Required Documents
+  * AFM / Placards / Markings
+  * Civil Aircraft Airworthiness
+  * Flight Rules
+  * Maintenance and Inspection sections
+  * Waivers
+
+أولوية 2 — مهمة جدًا ومكملة مباشرة للوظيفة
+-------------------------------------------
+
+7) GACAR Part 39
+- مهم جدًا لفهم:
+  * Airworthiness Directives (ADs)
+  * Applicability
+  * Compliance
+
+8) GACAR Part 45
+- مهم بسبب:
+  * Aircraft Identification
+  * Registration Marking
+  * Part / Product Marking
+  * Identity and traceability
+
+9) GACAR Part 47
+- مهم لفهم:
+  * Aircraft Registration
+  * العلاقة بين التسجيل والشهادات
+  * ملفات الطائرات
+
+10) GACAR Part 5
+- مهم لأنه يغطي:
+  * Safety Management Systems (SMS)
+  * Accountable Executive
+  * Safety Risk Management
+  * Safety Assurance
+- مفيد في جانب التحسين المستمر وتعزيز السلامة.
+
+11) GACAR Part 4
+- مهم لأن الوظيفة تتعامل مع:
+  * الحوادث والوقائع
+  * التقارير
+  * تحليل البيانات
+  * منع التكرار
+- يوضح occurrence reporting and safety information system.
+
+أولوية 3 — مهمة للمقابلة والعمل بعد إتقان الأساسي
+--------------------------------------------------
+
+12) GACAR Part 11
+- مهم لفهم:
+  * Waiver
+  * Exemption
+  * الإجراءات التنظيمية الخاصة بطلب الإعفاءات
+
+13) GACAR Part 13
+- مهم لفهم:
+  * Compliance and Enforcement
+  * Corrective Actions
+  * Resolution of Safety Deficiencies
+
+14) GACAR Part 1
+- لا تهمله.
+- مهم جدًا للتعريفات والاختصارات وقواعد التفسير.
+- ركّز على مصطلحات مثل:
+  * Airworthy
+  * Airworthiness Certificate
+  * Airworthiness Directive
+  * Approved Data
+  * Operator
+  * OpSpecs
+  * CAMP
+  * CASS
+  * Accountable Executive
+
+أفضل ترتيب للمذاكرة إذا كان وقتك محدود
+--------------------------------------
+
+1. Part 121
+2. Part 119
+3. Part 145
+4. Part 21
+5. Part 43
+6. Part 39
+7. Part 91
+8. Part 45
+9. Part 47
+10. Part 5
+11. Part 4
+12. Part 11
+13. Part 13
+14. Part 1
+
+مراجع مساندة مهمة جدًا للمقابلة والعمل
+--------------------------------------
+
+1) Volume 12
+- من أهم المراجع العملية للمفتش.
+- يساعد في فهم التفتيش والمراقبة على Part 121 و145.
+
+2) Volume 5
+- مهم في:
+  * RVSM
+  * MEL
+  * Operational Approvals
+
+3) Volume 15
+- مهم في:
+  * Authorizing Documents
+  * OpSpecs
+  * Special Flight Permits
+  * Exemptions / Waivers
+
+4) Volume 3
+- مفيد لفهم:
+  * Certification Process
+  * Manuals
+  * Applications
+  * Approval flow
+
+الخلاصة
+-------
+
+الأنظمة الأساسية لهذه الوظيفة هي:
+Part 121, Part 119, Part 145, Part 21, Part 43, Part 39, and Part 91
+
+والأنظمة المساندة المهمة هي:
+Part 45, Part 47, Part 5, Part 4, Part 11, Part 13, and Part 1
+
+وأهم المراجع المساندة العملية:
+Volume 12, Volume 5, Volume 15, and Volume 3
