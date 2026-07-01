@@ -1,11 +1,293 @@
-Uploaded manual inventory:
+﻿Uploaded manual inventory:
 
-1. GACAR Part 1 - Definitions, Abbreviations and Editorial Conventions
-2. GACAR Part 4
-3. GACAR Part 5
-4. GACAR Part 21
-5. GACAR Part 43 - Maintenance, Preventive Maintenance, Rebuilding, and Alteration
-6. GACAR Part 91 - General Operating and Flight Rules
-7. GACAR Part 119 - Certification, Saudi Arabian Commercial and Noncommercial Operations
-8. GACAR Part 121 - Operations: Commercial Air Operators Operating Transport Category Aircraft or Commuter Category Airplanes
-9. GACAR Part 145
+Total documents: 289
+
+1. 005-sms-effectiveness-checklist12.pdf
+2. 035application-for-acceptance-of-quality-manager-143-fati.pdf
+3. 044-checklist-quality-manual-structure-fff evaluation-142.pdf
+4. 066aircraftdispatchertrainingproceduresmanualevaluationchecklist143 ffff.pdf
+5. 1- AC 175-01-v2.pdf
+6. 1 READ ME FIRST.pdf
+7. 2- AC 175-03-v2.pdf
+8. 3- AC 175-04-v2.pdf
+9. AC 000-00 An Introduction to the GACA Advisor Circular System.pdf
+10. AC 000-02 Applicability and Use of FAA Advisory Circulars.pdf
+11. AC 000-03 Human Factors Principles in Civil Aviation.pdf
+12. AC 000-05 Payment of Fees and Charges.pdf
+13. AC 000-06 Aircraft Disassembly and Recycling Management.pdf
+14. AC 000-07 737 MAX Return to Service.pdf
+15. AC 00501 Safety Management Systems SMS.pdf
+16. AC 011-01 Petitioning for Exemptions.pdf
+17. AC 013-01 Appeals and Petitions for Reconsideration.pdf
+18. AC 021-03 Types of Approved Data for Alterations and Repairs on Saudi Arabian Registered Aircraft.pdf
+19. AC 021-07 Alterations and Repairs.pdf
+20. AC 021-35  Type Certificate Acceptance.pdf
+21. AC 043-01 One-Time Approval Application Guide.pdf
+22. AC 047-01 Aircraft Registration Guide.pdf
+23. AC 068-01 Ground Services Personnel Work Permit Guide.pdf
+24. AC 077-01 Laser Emissions That May Endanger The Safety of Civil Aviation.pdf
+25. AC 091-01 Undesired impact of 5G networks on airborne radio altimeters.pdf
+26. AC 091-02 Non-Towered Aerodrome and Uncontrolled Airspace Flight Operations.pdf
+27. AC 091-02 Protection of Radio Altimeter Systems from Impact of 5G.pdf
+28. AC 100-1 Powered-Lift Operations.pdf
+29. AC 101-01 Small Unmanned Aircraft Systems.pdf
+30. AC 13904 Airport Emergency Plan AEP.pdf
+31. AC 14001 Vertiports Design Specification VDS.pdf
+32. AC 151-01 Ground Service Provider Certification Guide.pdf
+33. AC 156-01 Guidance Material on Operational Improvements to reduce Greenhouse gas emissions.pdf
+34. AC 156-02 Guidance Material on Innovative-sustainable fuels guide.pdf
+35. AC 156-03 Guidance Material on Noise Abatement Procedures.pdf
+36. AC 156-04 Guidance Material on Local Air Quality at Airports.pdf
+37. AC 156-05 Guidance Material on Biodiversity protection around airports.pdf
+38. AC 156-06 Guidance Material on Waste Management.pdf
+39. AC 156-07 Guidance Material on Eco-Design of Airport Buildings.pdf
+40. AC 156-08 Guidance Material on Water Conservation Measures.pdf
+41. AC 156-09 Guidance Material on Climate Change Risk Assessment and Adaptation.pdf
+42. AC 156-10 Guidance Material on Environmental Management Systems.pdf
+43. AC 171-01 Prerequisites for acceptance by the president of manager of air traffic management.pdf
+44. AC 172-01 Application for Procedure Design Certificate.pdf
+45. Ac 172-02 Prerequisites For Acceptance By The President Of Chief Designer.pdf
+46. AC 172-03 Flight Validation Certificate.pdf
+47. AC 199-01 Transitioning to the New GACARs - This advisory circular was canceled per docket number.pdf
+48. AC 604605 Safety of Civil Aircraft Operating Air Space under the Authority of the Republic of South.pdf
+49. AC 67092-5 Chinese Spacecraft Long March 5B Reentry Into Atmosphere.pdf
+50. AC_021-02_Parts_Acceptable_For_Use_of_Saudi_Arabian_Registered_Aircraft (2).pdf
+51. Addendum No 1 of the Technical Instructions for the Safe Transport of Dangerous Goods by Air.pdf
+52. Aircraft Arresting Systems AAS in the Kingdoms Civil Aerodromes.pdf
+53. AIRWORTHINESS-DIRECTIVE-EN.pdf
+54. Change_History-v70.pdf
+55. Civil_Aviation_Law_En.pdf
+56. Comply and commit to the Law of Management of Chemical Substances and the Executive Regulations of M.pdf
+57. Comply and commit with the Executive Regulation for Aviation Safety Part 109.pdf
+58. Controlled Flight Into Terrain CFIT.pdf
+59. Detecting and Reporting Suspected and Unapproved Parts SUP-EN.pdf
+60. EASA-GACA-Working-Agreement.pdf
+61. Fire prevention regulations for facilities Part One Third Edition 2016.pdf
+62. Fire Risk Of Electronic Cigarettes in Checked-In Baggage On Board An Aircraft-EN.pdf
+63. Followup with the directives issued by the Product Recall Center at the Ministry of Commerce regardi.pdf
+64. forcement policy.pdf
+65. GACA AC 100-2 Pilot Training and Certification for Powered-Lift.pdf
+66. GACA AC 107-01 Advanced Operations with Unmanned Aircraft Systems.pdf
+67. GACA AC 107-02 Remote Pilot Certification.pdf
+68. GACA AC 10703 UAS carrying Dangerous Goods  Version 10.pdf
+69. GACA-AVSES-AIR-F001 - SUSPECTED UNAPPROVED PARTS REPORTING.pdf
+70. GACA-AVSES-AIR-F002 - AIRCRAFT DATA SHEET.pdf
+71. GACA-AVSES-AIR-F003 - LSA - AIRWORTHINESS DIRECTIVE COMPLIACNE RECORD.pdf
+72. GACAAVSESAIRF004  APPLICATION FOR 406 MHz ELT  ELTDT  PLB REGISTRATION.pdf
+73. GACA-AVSES-AIR-F005 - APPLICATION FOR AIRCRAFT SPECIAL FLIGHT PERMIT.pdf
+74. GACA-AVSES-AIR-F006 - APPLICATION FOR AIRWORTHINESS CERTIFICATE.pdf
+75. GACA-AVSES-AIR-F007 - APPLICATION FOR ASSIGNMENT OF 24-BIT ADDRESS FOR MODE S TRANSPONDER.pdf
+76. GACA-AVSES-AIR-F008 - APPLICATION FOR EXPORT CERTIFICATE OF AIRWORTHINESS.pdf
+77. GACAAVSESAIRF009  CERTIFICATE OF INSPECTIONS GACAR 4315.pdf
+78. GACAAVSESAIRF010  CERTIFICATION OF ALTIMETER SYSTEM AND ALTITUDE REPORTING EQUIPMENT TESTS AND INSPE.pdf
+79. GACA-AVSES-AIR-F011 - CERTIFICATION OF ATC TRANSPONDER TEST AND INSPECTIONS.pdf
+80. GACA-AVSES-AIR-F012 - CERTIFICATION OF THE BATTERY REPLACEMENT OF THE ELT.pdf
+81. GACA-AVSES-AIR-F013 - LIFE LIMITED COMPONENT - PART STATUS.pdf
+82. GACA-AVSES-AIR-F014 - AIRMAN CERTIFICATE AND OR RATING APPLICATION.pdf
+83. GACA-AVSES-AIR-F015 - SERVICE DEFECT REPORT - SDR.pdf
+84. GACA-AVSES-AIR-F016 - CHECKLIST FOR AIRWORTHINESS CERTIFICATE 1.pdf
+85. GACAAVSESAIRF017  MAJOR REPAIRS  ALTERATIONS RECORD.pdf
+86. GACA-AVSES-AIR-F018 - MANUFACTURE SERVICE DOCUMENTS RECORD.pdf
+87. GACA-AVSES-AIR-F019 - SELECTION OF INSPECTION PROGRAM.pdf
+88. GACA-AVSES-AIR-F020 - STATEMENT OF CONFORMITY.pdf
+89. GACAAVSESAIRF024  APPLICATION FOR REPAIR STATION CERTIFICATE  OPERATIONS SPECIFICATIONS F83103.pdf
+90. GACA-AVSES-AIR-F037 - CHECKLIST FOR LSA CERTIFICATE OF AIRWORTHINESS.pdf
+91. GACA-AVSES-AIR-F040 - PRE-APPLICATION STATEMENT OF INTENT - PASI.pdf
+92. GACA-AVSES-AIR-F041 - AUTHORIZED RELEASE CERTIFICATE 70.pdf
+93. GACA-AVSES-AIR-F047 - APPLICATION FOR AIRCRAFT REGISTRATION.pdf
+94. GACA-AVSES-AIR-F048 - AIRWORTHINESS DIRECTIVE COMPLIACNE RECORD.pdf
+95. GACAAVSESAIRF049  MAJOR REPAIR AND ALTERATION  AIRFRAME POWERPLANT PROPELLER OR APPLIANCE.pdf
+96. GACAAVSESAIRF050  STATEMENT OF QUALIFICATION  DARDERDME.pdf
+97. GACA-AVSES-AIR-F051 - LSA - AIRCRAFT DATA SHEET.pdf
+98. GACA-AVSES-AIR-F052 - LSA - APPLICATION FOR CERTIFICATION OF AIRWORTHINESS.pdf
+99. GACA-AVSES-AIR-F053 - LSA - APPLICATION FOR AIRCRAFT CERTIFICATE OF AUTHORIZATION.pdf
+100. GACA-AVSES-AIR-F054 - LSA - LIFE LIMITED COMPONENT - PART STATUS.pdf
+101. GACAAVSESAIRF055  LSA  MAJOR REPAIRS  ALTERATIONS RECORD.pdf
+102. GACAAVSESAIRF056  MECHANICS APPLICATION FOR INSPECTION AUTHORIZATION.pdf
+103. GACA-AVSES-OPS-F001 - PILOT CERTIFICATE AND-OR RATING APPLICATION.pdf
+104. GACAAVSESOPSF002  AIRMAN TYPE RATING PROFICIENCY CHECK AIRPLANE.pdf
+105. GACAAVSESOPSF003  TEMPORARY FLIGHT AUTHORIZATION TFA ISSUED BASED ON A FOREIGN LICENSE Issuance  Ren.pdf
+106. GACA-AVSES-OPS-F004 - FSTDS INITIAL QUALIFICATION APPLICATION FORM.pdf
+107. GACAAVSESOPSF005  FSTDS QUALIFICATION RENEWAL ADDITIONAL  RELOCATION APPLICATION FORM.pdf
+108. GACAAVSESOPSF006  PART 121 CERTIFICATION JOB AID CJA.pdf
+109. GACAAVSESOPSF007  INITIAL INQUIRY DATA SHEET IIDS  GACAR PART 121.pdf
+110. GACAAVSESOPSF008  OPERATIONS SPECIFICATIONS REQUEST LIST ORL  GACAR PART 121.pdf
+111. GACA-AVSES-OPS-F009 - CHIEF INSPECTOR QUALITY AUDIT FORM - GACAR PART 121.pdf
+112. GACA-AVSES-OPS-F010 - CHIEF PILOT - QUALITY AUDIT FORM - PART 121.pdf
+113. GACA-AVSES-OPS-F011 - DIRECTOR OF OPERATIONS - QUALITY AUDIT FORM - PART 121.pdf
+114. GACA-AVSES-OPS-F012 - DIRECTOR OF MAINTENANCE QUALITY AUDIT FORM - GACAR PART 121.pdf
+115. GACA-AVSES-OPS-F013 - CHIEF INSPECTOR QUALIFICATION SUMMARY - GACAR PART 121.pdf
+116. GACA-AVSES-OPS-F014 - CHIEF PILOT  - QUALIFICATION SUMMARY - PART 121.pdf
+117. GACA-AVSES-OPS-F015 - DIRECTOR OF OPERATIONS - QUALIFICATION SUMMARY PART 121.pdf
+118. GACAAVSESOPSF016  SCHEDULE OF EVENTS SoE  GACAR PART 121.pdf
+119. GACA-AVSES-OPS-F018 - APPLICANT QUALITY AUDIT FORM.pdf
+120. GACAAVSESOPSF019  AIR OPERATORS  SPECIAL OPERATIONS APPROVALS  AUTHORIZATIONS APPLICATION FORM.pdf
+121. gaca-avses-ops-f021 - pilot school certification inspection checklist - gacar part 141.pdf
+122. gaca-avses-ops-f022 - chief instructors acceptance application form - gacar part 141 - pdf.pdf
+123. gaca-avses-ops-f023 - assistant chief instructors acceptance application form - gacar part 141 - pdf.pdf
+124. gaca-avses-ops-f024 - application for pilot school certification.pdf
+125. gacaavsesopsf025  evaluator  examiner signatory for standardization arrangements  141  pdf.pdf
+126. GACAAVSESOPSF026  TRAINING CENTERS TC INITIAL CERTIFICATION APPLICATION FORM.pdf
+127. GACAAVSESOPSF027  TRAINING CENTERS TC RENEWAL CERTIFICATION APPLICATION FORM.pdf
+128. gacaavsesopsf028  designated aircraft dispatcher examiner dade application and qualification record.pdf
+129. GACAAVSESOPSF030  TRAINING CENTER EVALUATOR  EXAMINER AUTHORIZATION ISSUANCE  RENEWAL APPLICATION FO.pdf
+130. GACAAVSESOPSF032  FOREIGN TCI ISSUANCE  RENEWAL APPLICATION FORM.pdf
+131. GACAAVSESOPSF033  FOREIGN TRAINING CENTER EVALUATOR ACCEPTANCE AUTHORIZATION ISSUANCE  RENEWAL APPLI.pdf
+132. GACA-AVSES-OPS-F034 - HEAD OF TRAINING ACCEPTANCE APPLICATION FORM GACAR-PART 142.pdf
+133. GACAAVSESOPSF037  FOREIGN TRAINING CENTER CERTIFICATION  APPROVAL APPLICATION FORM INITIAL  RENEWAL.pdf
+134. GACAAVSESOPSF038  FOREIGN FSTDS QUALIFICATION ACCEPTANCE APPLICATION FORM INITIAL  RENEWAL AIRPLANE.pdf
+135. gacaavsesopsf039  training school academy initial certification application form  143.pdf
+136. gacaavsesopsf040  training school academy renewal certification application form -143.pdf
+137. GACAAVSESOPSF042  SYNTHETIC FLIGHT INSTRUCTOR SFI ISSUANCE  RENEWAL APPLICATION FORM AIRPLANE  HELIC.pdf
+138. GACA-AVSES-OPS-F045 - TRAINING CENTERS INSTRUCTOR RATING COMPETENCY CHECK REPORT.pdf
+139. gaca-avses-ops-f046 - organization and infrastructure inspection checklist - gacar part 141.pdf
+140. GACA-AVSES-OPS-F047 - FOREIGN TRAINING CENTER CERTIFICATION APPROVAL PROCESS AND PROCEDURES.pdf
+141. GACA-AVSES-OPS-F048 - APPLICATION FOR ACCEPTANCE OF QUALITY MANAGER - GACAR PART FFF 142.pdf
+142. gaca-avses-ops-f049 - examiner designation and qualification record - dpe - 141 - pdf.pdf
+143. GACAAVSESOPSF050  FLIGHT TRAINING DEVICE FTD QUALIFICATION TEST CHECKLIST  GACAR PART 60.pdf
+144. GACAAVSESOPSF051  AIRMAN TYPE RATING PROFICIENCY CHECK ROTORCRAFT.pdf
+145. gaca-avses-ops-f065 - chief ground instructors acceptance application form - gacar part 143 -pdf.pdf
+146. gacaavsesopsf075  designed aircraft dispatcher examiner dade competency evaluation checklist 143.pdf
+147. gacaavsesopsf077  gaca oral  practical test pts inspector  dade checklist  gacar part 143.pdf
+148. gaca-avses-ops-f078 - quality manager acceptance application form - gacar part 141 - pdf.pdf
+149. GACAAVSESOPSF079  EXAMINER  EVALUATOR AUTHORIZATION ACCEPTANCE TEST.pdf
+150. gacaavsesopsf082  checklistpilot school operations manual structure evaluation  gacar part 141  pdf.pdf
+151. GACAAVSESOPSF083  CHECKLISTTRAINING CENTER OPERATIONS MANUAL STRUCTURE EVALUATION GACAR PART142.pdf
+152. GACA-AVSES-OPS-F084 - CHECKLIST-TRAINING MANUAL STRUCTURE EVALUATION GACAR PART-142.pdf
+153. GACA-AVSES-OPS-F085 - ATD EVALUATION AND SUBJECTIVE TEST CRITERIA - GACAR PART 60.pdf
+154. gaca-avses-ops-f088 - checklist- quality manual structure evaluation - gacar part 141 - pdf.pdf
+155. GACAAVSESOPSF089  BASIC AVIATION TRAINING DEVICE BATD REQUIREMENTS   GACAR PART 60.pdf
+156. GACAAVSESOPSF090  APPROVED TRAINING ORGANIZATION AUDIT  INSPECTION CHECKLIST JOB AID.pdf
+157. GACAAVSESOPSF091  ADVANCED AVIATION TRAINING DEVICE AATD REQUIREMENTS  GACAR PART 60.pdf
+158. gacaavsesopsf092  pilot school facility inspection general guide  gacar part 141.pdf
+159. GACA-AVSES-OPS-F093 - ATD TRAINING CONTENT AND LOGGING PROVISIONS - GACAR PART 60.pdf
+160. GACAAVSESOPSF096  FULL FLIGHT SIMULATOR FFS QUALIFICATION TEST CHECKLIST.pdf
+161. gaca-avses-ops-f097 - flight training inspection checklist - 141.pdf
+162. GACAAVSESOPSF098  FLIGHT TRAINING DEVICES FTD QUALIFICATION TEST CHECKLIST.pdf
+163. gaca-avses-ops-f100 - theoretical knowledge training inspection checklist - 141.pdf
+164. gaca-avses-ops-f102 - checklist- quality manual structure evaluation gacar part-143.pdf
+165. gacaavsesopsf104  examiner  evaluator authorization competency evaluation  check  dpe  141.pdf
+166. gacaavsesopsf158  aircraft dispatcher instructor authorization issuance  renewal application form  1.pdf
+167. gacaavsesopsf159  aircraft dispatcher instructor competency evaluation checklist  gacar part 143  pd.pdf
+168. gaca-avses-ops-f167 - checklist-training manual structure evaluation gacar part-141 - pdf.pdf
+169. gacaavsesopsf168 approved training organization training school  academy audit  inspection checklist.pdf
+170. gacaavsesopsf169  quality management system inspection checklist approved training organization  air.pdf
+171. GACAAVSESPELF041  LICENSE  CERTIFICATE APPLICANT SIGNATURE.pdf
+172. GACA-AVSES-REG-F010 - PETITION FOR REGULATORY EXEMPTION.pdf
+173. GACA-AVSES-SRM-F001 - SAFETY MANAGER ACCEPTANCE APPLICATION FORM.pdf
+174. GACA-AVSES-SRM-F002 - CHECKLIST-SAFETY MANAGEMENT SYSTEM MANUAL STRUCTURE EVALUATION.pdf
+175. GACA-AVSES-SRM-F018 - SRP ANNUALLY FINANCIAL HEALTH REPORTING FORM.pdf
+176. GACAR Part 107 - Operation of Unmanned Aircraft Systems - v5 (1).pdf
+177. GACAR Part 107 - Operation of Unmanned Aircraft Systems - v5.pdf
+178. GACAR PART 68  CERTIFICATED AERODROMES GROUND SERVICES PERSONNEL.pdf
+179. GACAR Part-66 Airmen license.pdf
+180. GACAR_137.pdf
+181. GACAR_138.pdf
+182. GACAR_study_plan_airworthiness_inspector.txt
+183. gacar-part-101-unmanned-aircraft-systems.pdf
+184. Global Navigation Satellite System Outage and Alterations Leading to Communication  Navigation.pdf
+185. Guidance Material on Handling and Transportation of Lithium Batteries by Air-EN.pdf
+186. Importance  Commitment GACA Regulations.pdf
+187. Installation of leakage control.pdf
+188. KSA State Safety Program.pdf
+189. Mandatory Reporting of Statistical data.pdf
+190. Monitoring and Reporting of Unstabilized Approaches.pdf
+191. Monitoring of Cosmic Radiation Exposure in Aviation.pdf
+192. PART 139.pdf
+193. Part 172 - Instrument Flight Procedure Services-v6.pdf
+194. Part 174 - Unmanned Aircraft Systems Traffic Management-v1.pdf
+195. Part 179 - Meteorology Services for Air Navigation -v6.pdf
+196. Part_1_-_Definitions_Abbreviations_and_Editorial_Conventions-v14.pdf
+197. Part_103.pdf
+198. Part_105.pdf
+199. Part_109.pdf
+200. Part_11.pdf
+201. Part_115.pdf
+202. Part_117.pdf
+203. Part_119_-_Certification__Saudi_Arabian_Commercial_and_Noncommercial_Operations V6.pdf
+204. Part_125.pdf
+205. Part_129.pdf
+206. Part_13.pdf
+207. Part_133.pdf
+208. Part_141_-_Pilot_Schools-V8.pdf
+209. Part_142_-_Training_Centers-v6.pdf
+210. Part_143.pdf
+211. Part_145.pdf
+212. Part_147.pdf
+213. Part_149.pdf
+214. Part_151.pdf
+215. Part_156_-_Environmental_Sustainability_Regulations.pdf
+216. Part_170_-_Certification__Air_Navigation_Service_Providers-v6.pdf
+217. Part_171_-_Air_Traffic_Services-v7.pdf
+218. Part_173.pdf
+219. Part_175.pdf
+220. Part_177.pdf
+221. Part_183_-_Representatives_of_the_President-V9.pdf
+222. Part_193.pdf
+223. Part_199_-_Repeals_Coming_into_Force_and_Transitional_Provisions-v12.pdf
+224. Part_2.pdf
+225. Part_21.pdf
+226. Part_23.pdf
+227. Part_25.pdf
+228. Part_26.pdf
+229. Part_27.pdf
+230. Part_29.pdf
+231. Part_3.pdf
+232. Part_31_-_Airworthiness_Standards__Manned_Free_Balloons-v3.pdf
+233. Part_33.pdf
+234. Part_34.pdf
+235. Part_35.pdf
+236. Part_36.pdf
+237. Part_39_-_Airworthiness_Directives-v5.pdf
+238. Part_4.pdf
+239. Part_43_-_Maintenance_Preventive_Maintenance_Rebuilding_and_Alteration-v5.pdf
+240. Part_45_-_Identification_and_Registration_Marking-v7.pdf
+241. Part_47_-_Aircraft_Registration-v8.pdf
+242. Part_48_-_Registration_and_Marking_Requirements_for_Unmanned_Aircraft-1.pdf
+243. Part_5.pdf
+244. Part_60_-_Flight_Simulation_Training_Devices_and_Aviation_Training_Devices-v4.pdf
+245. Part_61_-_Certification__Pilots_Flight_Instructors_Ground_Instructors_and_Flight_Engineers- V11.pdf
+246. Part_64.pdf
+247. Part_65.pdf
+248. Part_66.pdf
+249. Part_67.pdf
+250. Part_7.pdf
+251. Part_71.pdf
+252. Part_77.pdf
+253. Part_91_-_General_Operating_and_Flight_Rules-V25.pdf
+254. Part_93.pdf
+255. Part_97.pdf
+256. Part_99.pdf
+257. Part100OperationsofMannedPoweredLiftandVerticalTakeoffandLandingVTOLAircraftv1.pdf
+258. Part121 OperationsCommercialAirOperatorsOperatingTransportCategoryAircraftorCommuterCategoryAirplanes.pdf
+259. Part135OperationsCommercialAirOperatorsOperatingOtherThanTransportCategoryAircraftorCommuterCategory.pdf
+260. Part157CarbonOffsettingAndReductionSchemeForInternationalAviationCORSIA 2.pdf
+261. Part9AircraftUnderanAgreementforTransferofFunctionsandDutiesinAccordancewithArticle83bisoftheConvent.pdf
+262. Possible Safety Risk Emerging During Summer 2023-EN.pdf
+263. Potential Hazard Presented by Dust Devils on Aircraft Operation -v2.pdf
+264. Regarding importance of commitment with the provisions of the environmental law.pdf
+265. Repair Stations 2026 May.pdf
+266. Requirements to obtain appropriate authorization.pdf
+267. Rules and Regulations Related to Unmanned Aircraft Systems.pdf
+268. safety policy EN.pdf
+269. Small-lithium-ion-battery-powered-scooters-in-checked-or-carry-on-baggage-during-air-travel.pdf
+270. Transportation of lithium batteries as cargo.pdf
+271. Use of the Samsung Galaxy Note 7 on board of aircraft.pdf
+272. VOLUME_10.pdf
+273. VOLUME_11.pdf
+274. VOLUME_13.pdf
+275. VOLUME_17.pdf
+276. VOLUME_5.pdf
+277. VOLUME_7.pdf
+278. VOLUME12SURVEILLANCEv16.pdf
+279. VOLUME14DESIGNEESAPPOINTMENTMANAGEMENTv10.pdf
+280. VOLUME15AUTHORIZINGDOCUMENTSv12.pdf
+281. VOLUME16GROUNDSERVICESv3.pdf
+282. VOLUME18UNMANNEDAIRCRAFTSYSTEMS v1.pdf
+283. VOLUME1GENERALGUIDANCEANDINFORMATIONv13.pdf
+284. VOLUME2SAFETYMANAGEMENTSYSTEMSGENERALv17.pdf
+285. VOLUME3AIROPERATORampAIRAGENCYCERTIFICATIONV9.pdf
+286. VOLUME4AIROPERATORampAIRAGENCYADMINISTRATIONv11.pdf
+287. VOLUME6AIRCRAFTEQUIPMENTCERTIFICATIONv8.pdf
+288. VOLUME8AIRNAVIGATIONSERVICESCERTIFICATIONADMINISTRATIONv8.pdf
+289. VOLUME9AIRMENCERTIFICATIONv17.pdf
