@@ -1,4 +1,7 @@
-﻿Uploaded manual inventory:
+DOCUMENT INVENTORY
+manual_inventory.txt
+This file contains the complete list of all documents available in the uploaded manuals folder.
+Use this file when the user asks what documents are available, what manuals are uploaded, or what files the chatbot can access.
 
 Total documents: 289
 
